@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Gabriel Brito, I'm a programmer and civil engineer, and I'm looking for all kind of knowledge.
+My name is Gabriel Brito, I'm a programmer and civil engineer, and I'm looking for knowledge.
 Here you'll find some of my projects and ideas, developed in courses and personal studies.
 
 I like to learn about everything, watch soccer, finding solutions and have a special care for music and my family.
