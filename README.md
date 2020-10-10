@@ -3,9 +3,9 @@
 My name is Gabriel Brito, I'm a programmer and civil engineer, and I'm looking for knowledge.
 Here you'll find some of my projects and ideas, developed in courses and personal studies.
 
-I like to learn about everything, watch soccer, finding solutions and have a special care for music and my family.
+I like to learn about everything, watch soccer, finding solutions and I have a special care for music and my family.
 
-Currently, I'm focusing in Front-end and Back-end web development, by studying and increasing my skills, looking for an opportunity to contribute in a nice workflow environment.
+Currently, I'm focusing in Front-end and Back-end web development, by studying and increasing my skills, looking for an opportunity to contribute in a nice work-flow environment.
 
 If you wanna get in touch, here are some ways you can find me:
 
