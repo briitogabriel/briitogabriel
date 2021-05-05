@@ -11,6 +11,7 @@ If you wanna get in touch, here are some ways you can find me:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=mailto:gabriel.brito.a@gmail.com)](mailto:gabriel.brito.a@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brittogabriel/)](https://linkedin.com/in/brittogabriel/)
+[![Netlify Badge](https://img.shields.io/badge/Portfolio-darkgreen)](https://gabrielbrito-portfolio.netlify.app/)
 
 
 Hope you enjoy my ideas.
@@ -19,8 +20,6 @@ Thank you for the interest!
 
 <!--
 **briitogabriel/briitogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Netlify Badge](https://img.shields.io/badge/Netlify-Projects-darkgreen)](https://app.netlify.com/teams/briitogabriel/sites) - CRIAR PORTIFÓLIO
 
 JS IMAGE: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
