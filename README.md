@@ -1,6 +1,6 @@
-<h1 align="center">Hello there! My name is Gabriel Brito</h1>
-<h3 align="center">Developer, Data Analyst and Civil Engineer</h3>
-<h3 align="center">Here you'll find some of my projects and ideas, developed in courses and personal studies</h3>
+<h1 align="left">Hello there! My name is Gabriel Brito</h1>
+<h3 align="left">Developer, Data Analyst and Civil Engineer</h3>
+<h3 align="left">Here you'll find some of my projects and ideas, developed in courses and personal studies</h3>
 
 <p>I like to learn about everything, watch/play soccer and videogames, watch TV series, reading self knowledge books, and I have a special care for music (guitarist) and my family.</p>
 <p>If you wanna get in touch, here are some ways you can find me:</p>
