@@ -7,7 +7,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=mailto:gabriel.brito.a@gmail.com)](mailto:gabriel.brito.a@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brittogabriel/)](https://linkedin.com/in/brittogabriel/)
-[![Netlify Badge](https://img.shields.io/badge/Portfolio-darkgreen)](https://gabrielbrito-portfolio.netlify.app/)
 
 <p align="left">Other profiles:</p>
 <p align="left">
